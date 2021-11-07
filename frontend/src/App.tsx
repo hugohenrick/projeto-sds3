@@ -1,4 +1,3 @@
-import { Route } from "react-router";
 import Routes from "routes";
 
 function App() {
