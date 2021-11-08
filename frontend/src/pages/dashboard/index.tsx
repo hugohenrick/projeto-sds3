@@ -3,7 +3,7 @@ import Footer from "components/footer";
 import DataTable from "components/dataTable";
 import BarChart from "components/barChart";
 import DonutChart from "components/donutChart";
-const Home = () => {
+const Dashboard = () => {
     return (
         <>
             <NavBar />
@@ -30,4 +30,4 @@ const Home = () => {
     );
 }
 
-export default Home;
+export default Dashboard;
