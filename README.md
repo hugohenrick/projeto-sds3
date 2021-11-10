@@ -1,6 +1,6 @@
 # Projeto Dashboard de Vendas
 
-Backend em Java(Spring) + banco de dados PostgreSQL e Frontend com React + Bootstrap.
+Projeto promovido pela DevSuperior.
 
 # Tecnologias utilizadas
 ## Back End
