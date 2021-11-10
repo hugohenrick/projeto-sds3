@@ -12,7 +12,6 @@ Projeto promovido pela DevSuperior.
 ## Front End
 - HTML / CSS / JS / TypeScript
 - ReactJS
-- React Native
 - Apex Charts
 
 ## Implantação em produção
